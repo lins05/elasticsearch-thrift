@@ -6,7 +6,7 @@ This repository contains **Dockerfile** of [ElasticSearch 1.0.3](http://www.elas
 
 ### Dependencies
 
-* [barnybug/elasticsearch](https://github.com/barnybug/dockerfiles/tree/master/elasticsearch)
+* [barnybug/elasticsearch](https://github.com/barnybug/dockerfiles/tree/elasticsearch-1.0.3/elasticsearch)
 
 
 ### Installation
