@@ -1,7 +1,7 @@
 ## ElasticSearch + Thrift plugin Dockerfile
 
 
-This repository contains **Dockerfile** of [ElasticSearch 1.1.2](http://www.elasticsearch.org/) + [Thrift plugin](https://github.com/elasticsearch/elasticsearch-transport-thrift) for [Docker](https://www.docker.io/)'s [build](https://index.docker.io/u/tehcmc/elasticsearch-thrift/) published to the public [Docker Registry](https://index.docker.io/).
+This repository contains **Dockerfile** of [ElasticSearch 1.4.1](http://www.elasticsearch.org/) + [Thrift plugin](https://github.com/elasticsearch/elasticsearch-transport-thrift) for [Docker](https://www.docker.io/)'s [build](https://index.docker.io/u/tehcmc/elasticsearch-thrift/) published to the public [Docker Registry](https://index.docker.io/).
 
 
 ### Dependencies
